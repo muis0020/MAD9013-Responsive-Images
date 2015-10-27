@@ -46,7 +46,7 @@ li{
 }
 
 
-@media all and (min-width: 600px) and (max-width: 1020px){
+/*@media all and (min-width: 600px) and (max-width: 1020px){
     
     ul{
         column-count: 2;
@@ -61,4 +61,4 @@ li{
         column-count: 3;
     }
     
-}
+}*/
